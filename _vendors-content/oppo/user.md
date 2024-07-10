@@ -1,7 +1,7 @@
 ---
 manufacturer: 
     - oppo
-
+hhj
 ---
 
 ## Oppo F1S
